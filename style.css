@@ -88,7 +88,7 @@ legend {
 	display: block;
 }
 
-section{
+.block-box{
   margin: 15px 10px;
   height: 100vh;
   display: flex;

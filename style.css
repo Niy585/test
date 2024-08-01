@@ -89,7 +89,7 @@ legend {
 }
 
 section{
-  margin: 2% 1%;
+  margin: 15px 10px;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -101,19 +101,16 @@ section{
   border-radius: 50px;
   filter: brightness(40%);
   background: url(Rectangle\ 538.png) no-repeat center center / cover;
-  height: 500px;
-  width: 100%;
-  padding: 60px 0.5%;
+  height: 590px;
+  margin: 0.5% 0.5%;
 }
 
 .block-contener{
   width: 100%;
   border-radius: 50px;
   background: #fff;
-  padding: 5% 1% 1% 1%;
-  /* margin: 0px 0px 10px; */
-  align-items: flex-end;
-  display: flex;
+  padding: 5% 0px 10px 0px;
+  height: 100%;
 }
 
 body{
